@@ -15,7 +15,7 @@
 It is recommended that you use a git extension for your IDE to complete this lab. If you are using Visual Studio Code, you can use the [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) extension.
 
 ## Setup
-We'll be using a copy of the source code for minGPT provided by Andrej Karpathy. minGPT is a simpler PyTorch re-implementation of GPT. If you're interested in reading up on it, feel free to explore the repository of [minGPT](https://github.com/karpathy/minGPT).
+We'll be using a copy of the source code for minGPT provided by Andrej Karpathy. minGPT is a simpler PyTorch re-implementation of GPT. If you're interested in reading up on it, feel free to explore the [minGPT](https://github.com/karpathy/minGPT) repository.
 
 1. **Clone** this minGPT repository to your local machine - [avyasharma/minGPT_copy](https://github.com/avyasharma/minGPT_copy) - by running the following command in your terminal:
 
